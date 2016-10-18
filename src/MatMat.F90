@@ -7,7 +7,6 @@
 ! Variable Declarations
 !
 
-
   INTEGER :: I
   INTEGER :: J
   INTEGER :: N
